@@ -2,18 +2,20 @@ Hi there 👋
 ===========
 
 - 🔭 I’m currently working on various hobbyist projects.
-  I'm also looking for paid work, but in the pandemic, this is proving tricky!
-- 🌱 I’m currently learning:
-  - Rust
-  - Java
-  - COBOL
-  - Embedded programming
+  I'm also looking for paid work, or an apprenticeship but in the pandemic, this
+  is proving tricky!
+- 🌱 I’m .currently learning:
+  - Rust.
+  - Java.
+  - COBOL.
+  - Embedded programming.
 - 👯 I’m looking to collaborate on:
   - [RawrWM][] -a modular and backend-based window manager.
     The aim is to get it to support both X11 and Wayland, and be customised from
     the ground-up.
   - [Xt][] - a modular and fast text editor.
-  - [guile-rs][] - GNU Guile bindings to Rust
+  - [guile-rs][] - GNU Guile bindings to Rust.
+      
       Help is very much needed on this project. 
 
       I would love to work to get interop working with Rust to a basic level,
