@@ -15,12 +15,12 @@ Hi there 👋
     the ground-up.
   - [Xt][] - a modular and fast text editor.
   - [guile-rs][] - GNU Guile bindings to Rust.
-      
-      Help is very much needed on this project. 
+
+      Help is very much needed on this project.
 
       I would love to work to get interop working with Rust to a basic level,
-      and working forward from there.  
-      
+      and working forward from there.
+
       I also want to work with other attempts at a
       GNU Guile binding to Rust.
 - 😄 Pronouns: they/them.
