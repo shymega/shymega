@@ -31,7 +31,6 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [My work with Planet Computers, and why: Pt 1](https://blog.shymega.org.uk/posts/my-work-with-planet-computers-and-why-pt-1/)
 - [Seizure prediction: v1](https://blog.shymega.org.uk/posts/seizure-prediction-v1/)
 - [About](https://blog.shymega.org.uk/about/)
 - [Hello World!](https://blog.shymega.org.uk/posts/hello-world/)
