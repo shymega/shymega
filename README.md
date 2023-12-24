@@ -7,27 +7,25 @@
 
 <p align="left"> <a href="https://twitter.com/shymega_" target="blank"><img src="https://img.shields.io/twitter/follow/shymega_?logo=twitter&style=for-the-badge" alt="shymega_" /></a> </p>
 
-- 🔭 I’m currently working on [Agnostos](https://github.com/shymega/Agnostos)
+- 🔭 I’m currently working on various Rust projects.
 
-- Currently on a job hunt, and also do volunteer dev work with Morph Audio and Planet Computers.
+- Currently on a job hunt - any recruiters or referrals welcome - I am a junior engineer.
 
-- 🌱 I’m currently experimenting with Rust, Java, C++, and embedded programming.:
+- 🌱 I’m currently experimenting with Rust, Java, C++, and embedded programming.
 
 - 😄 Pronouns: he/him
 
-- 🌱 I’m currently enhancing my skills with **Spring Boot, Rust, Elixir, Terraform.**
+- 🌱 I’m currently enhancing my skills with **Spring Boot, Rust, Elixir, Terraform**
 
 - 👯 I’m looking to collaborate on [Inuus](https://github.com/shymega/Inuus)
 
-- 🤝 I’m looking for help with [Xt Editor](https://github.com/Xt-Editor/Xt-Core)
+- 👨‍💻 All of my projects are available [here](https://github.com/shymega)
 
-- 👨‍💻 All of my projects are available at [https://github.com/shymega](https://github.com/shymega)
-
-- 💬 Ask me about **CoDiOS and Agnostos.**
+- 💬 Ask me about **CoDiOS and Inuus.**
 
 - 📫 How to reach me **shymega AT shymega DOT org DOT uk**
 
-- ⚡ Fun fact: I started programming with Visual Basic 6.0
+- ⚡ Fun fact: I started programming with Visual Basic 6.0.
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
